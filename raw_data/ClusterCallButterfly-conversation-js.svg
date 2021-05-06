@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<svg width="760" height="312" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <polygon points="4,309 4,4 757,4 757,309 4,309" stroke="#ffffff" fill="#ffffff"/>
+ <polygon points="24,300 44,300 98,300 178,300 275,300 380,300 485,300 582,300 662,300 716,300 736,300 738,300 740,299 741,299 743,298 744,296 746,295 747,293 747,292 748,290 748,288 748,281 748,261 748,231 748,195 748,156 748,117 748,81 748,51 748,31 748,24 748,22 747,20 747,19 746,17 744,16 743,14 741,13 740,13 738,12 736,12 716,12 662,12 582,12 485,12 380,12 275,12 178,12 98,12 44,12 24,12 22,12 20,13 19,13 17,14 16,16 14,17 13,19 13,20 12,22 12,24 12,31 12,51 12,81 12,117 12,156 12,195 12,231 12,261 12,281 12,288 12,290 13,292 13,293 14,295 16,296 17,298 19,299 20,299 22,300 24,300" stroke="#000000" fill="#FFFFCC"/>
+ <text x="329" y="28" fill="#000000" font-family="Arial" font-size="12">conversation.js</text>
+ <polygon points="519,134 365,134 365,160 519,160 519,134" stroke="#bebebe" fill="#ffffff"/>
+ <text x="373" y="150" fill="#000000" font-family="Arial" font-size="12">getConversationInfo</text>
+ <polygon points="740,134 655,134 652,137 652,160 737,160 740,157 740,134" stroke="#bebebe" fill="#ffffff"/>
+ <polyline points="737,137 652,137" stroke="#bebebe" fill="none"/>
+ <polyline points="737,137 737,160" stroke="#bebebe" fill="none"/>
+ <polyline points="737,137 740,134" stroke="#bebebe" fill="none"/>
+ <text x="660" y="150" fill="#000000" font-family="Arial" font-size="12">MPromise</text>
+ <polyline points="519,147 532,147 545,147 558,147 572,147 585,147 598,147 611,147 624,147 636,147 647,147" stroke="#0000cd" fill="none"/>
+ <polygon points="647,145 652,147 647,149 647,145" stroke="#0000cd" fill="#0000cd"/>
+ <polygon points="214,90 39,90 39,116 214,116 214,90" stroke="#bebebe" fill="#ffffff"/>
+ <text x="47" y="106" fill="#000000" font-family="Arial" font-size="12">createXidRecordByZid</text>
+ <polyline points="214,115 228,117 242,119 257,121 272,123 287,126 302,128 317,130 332,132 346,134 360,136" stroke="#0000cd" fill="none"/>
+ <polygon points="360,134 365,136 360,137 360,134" stroke="#0000cd" fill="#0000cd"/>
+ <polygon points="507,90 378,90 378,116 507,116 507,90" stroke="#bebebe" fill="#ffffff"/>
+ <text x="386" y="106" fill="#000000" font-family="Arial" font-size="12">isXidWhitelisted</text>
+ <polyline points="214,103 229,103 245,103 261,103 278,103 294,103 310,103 327,103 342,103 358,103 372,103" stroke="#0000cd" fill="none"/>
+ <polygon points="372,101 377,103 372,105 372,101" stroke="#0000cd" fill="#0000cd"/>
+ <polygon points="580,46 304,46 304,72 580,72 580,46" stroke="#bebebe" fill="#ffffff"/>
+ <text x="312" y="62" fill="#000000" font-family="Arial" font-size="12">getConversationInfoByConversationId</text>
+ <polyline points="549,72 552,73 555,74 559,75 562,76 565,77 568,77 571,78 574,79 577,80 580,81 590,85 601,89 611,94 621,99 631,105 640,110 649,116 658,121 666,126 673,131" stroke="#0000cd" fill="none"/>
+ <polygon points="674,130 677,134 672,132 674,130" stroke="#0000cd" fill="#0000cd"/>
+ <polygon points="510,178 375,178 375,204 510,204 510,178" stroke="#bebebe" fill="#ffffff"/>
+ <text x="383" y="194" fill="#000000" font-family="Arial" font-size="12">createXidRecord</text>
+ <polygon points="232,134 20,134 20,160 232,160 232,134" stroke="#bebebe" fill="#ffffff"/>
+ <text x="28" y="150" fill="#000000" font-family="Arial" font-size="12">getXidRecordByXidOwnerId</text>
+ <polyline points="220,160 235,162 250,164 265,166 281,169 296,171 311,173 326,175 341,177 355,179 369,181" stroke="#0000cd" fill="none"/>
+ <polygon points="370,179 374,182 369,183 370,179" stroke="#0000cd" fill="#0000cd"/>
+ <polyline points="232,147 245,147 258,147 271,147 284,147 297,147 310,147 323,147 335,147 347,147 359,147" stroke="#0000cd" fill="none"/>
+ <polygon points="360,145 365,147 360,149 360,145" stroke="#0000cd" fill="#0000cd"/>
+ <polyline points="220,134 235,132 250,130 266,128 282,125 298,123 313,121 329,119 344,117 358,115 372,113" stroke="#0000cd" fill="none"/>
+ <polygon points="372,111 377,112 372,114 372,111" stroke="#0000cd" fill="#0000cd"/>
+ <polygon points="499,222 386,222 386,248 499,248 499,222" stroke="#bebebe" fill="#ffffff"/>
+ <text x="394" y="238" fill="#000000" font-family="Arial" font-size="12">getXidRecord</text>
+ <polygon points="173,222 80,222 80,248 173,248 173,222" stroke="#bebebe" fill="#ffffff"/>
+ <text x="88" y="238" fill="#000000" font-family="Arial" font-size="12">getXidStuff</text>
+ <polyline points="173,235 191,235 210,235 231,235 252,235 275,235 297,235 319,235 341,235 361,235 380,235" stroke="#0000cd" fill="none"/>
+ <polygon points="380,233 385,235 380,237 380,233" stroke="#0000cd" fill="#0000cd"/>
+ <polygon points="543,266 342,266 342,292 543,292 543,266" stroke="#bebebe" fill="#ffffff"/>
+ <text x="350" y="282" fill="#000000" font-family="Arial" font-size="12">getZidFromConversationId</text>
+ <polyline points="543,270 547,269 551,268 554,267 558,266 562,265 566,263 569,262 573,260 576,259 580,257 593,250 606,241 619,232 630,222 641,212 651,201 661,191 669,181 677,172 683,164" stroke="#0000cd" fill="none"/>
+ <polygon points="681,163 686,160 684,165 681,163" stroke="#0000cd" fill="#0000cd"/>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<svg width="734" height="180" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <polygon points="4,177 4,4 731,4 731,177 4,177" stroke="#ffffff" fill="#ffffff"/>
+ <polygon points="24,168 43,168 95,168 172,168 265,168 367,168 469,168 562,168 639,168 691,168 710,168 712,168 714,167 715,167 717,166 718,164 720,163 721,161 721,160 722,158 722,156 722,152 722,142 722,127 722,110 722,90 722,70 722,53 722,38 722,28 722,24 722,22 721,20 721,19 720,17 718,16 717,14 715,13 714,13 712,12 710,12 691,12 639,12 562,12 469,12 367,12 265,12 172,12 95,12 43,12 24,12 22,12 20,13 19,13 17,14 16,16 14,17 13,19 13,20 12,22 12,24 12,28 12,38 12,53 12,70 12,90 12,110 12,127 12,142 12,152 12,156 12,158 13,160 13,161 14,163 16,164 17,166 19,167 20,167 22,168 24,168" stroke="#000000" fill="#FFFFCC"/>
+ <text x="328" y="28" fill="#000000" font-family="Arial" font-size="12">comment.js</text>
+ <polygon points="714,46 629,46 626,49 626,72 711,72 714,69 714,46" stroke="#bebebe" fill="#ffffff"/>
+ <polyline points="711,49 626,49" stroke="#bebebe" fill="none"/>
+ <polyline points="711,49 711,72" stroke="#bebebe" fill="none"/>
+ <polyline points="711,49 714,46" stroke="#bebebe" fill="none"/>
+ <text x="634" y="62" fill="#000000" font-family="Arial" font-size="12">MPromise</text>
+ <polygon points="502,46 354,46 354,72 502,72 502,46" stroke="#bebebe" fill="#ffffff"/>
+ <text x="362" y="62" fill="#000000" font-family="Arial" font-size="12">_getCommentsList</text>
+ <polyline points="502,59 514,59 526,59 538,59 551,59 563,59 575,59 587,59 599,59 610,59 620,59" stroke="#0000cd" fill="none"/>
+ <polygon points="621,57 626,59 621,61 621,57" stroke="#0000cd" fill="#0000cd"/>
+ <polygon points="554,90 303,90 303,116 554,116 554,90" stroke="#bebebe" fill="#ffffff"/>
+ <text x="311" y="106" fill="#000000" font-family="Arial" font-size="12">_getCommentsForModerationList</text>
+ <polygon points="182,58 68,58 68,84 182,84 182,58" stroke="#bebebe" fill="#ffffff"/>
+ <text x="76" y="74" fill="#000000" font-family="Arial" font-size="12">getComments</text>
+ <polyline points="182,77 192,78 203,79 214,81 226,82 238,83 250,84 263,85 275,87 288,88 300,89" stroke="#0000cd" fill="none"/>
+ <polygon points="300,88 305,90 299,91 300,88" stroke="#0000cd" fill="#0000cd"/>
+ <polyline points="182,69 197,68 212,68 229,67 246,66 264,66 281,65 299,64 316,63 333,63 349,62" stroke="#0000cd" fill="none"/>
+ <polygon points="349,60 354,62 349,64 349,60" stroke="#0000cd" fill="#0000cd"/>
+ <polygon points="486,134 370,134 370,160 486,160 486,134" stroke="#bebebe" fill="#ffffff"/>
+ <text x="378" y="150" fill="#000000" font-family="Arial" font-size="12">translateString</text>
+ <polygon points="230,114 21,114 21,140 230,140 230,114" stroke="#bebebe" fill="#ffffff"/>
+ <text x="29" y="130" fill="#000000" font-family="Arial" font-size="12">translateAndStoreComment</text>
+ <polyline points="230,134 244,135 258,136 272,137 286,138 300,139 314,139 327,140 340,141 353,142 365,143" stroke="#0000cd" fill="none"/>
+ <polygon points="365,141 370,143 365,145 365,141" stroke="#0000cd" fill="#0000cd"/>
+</svg>
