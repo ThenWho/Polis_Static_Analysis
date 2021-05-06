@@ -1,4 +1,4 @@
-# Polis_Static_Analysis
+# Polis' Static Analysis
 Call graphs  for Polis' JS/HTML codebase
 
 * The main file [`ClusterCallButterfly.drawio`](ClusterCallButterfly.drawio) contains an overview of the JS/HTML codebase only, organized per module.
